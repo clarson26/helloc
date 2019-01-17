@@ -1,3 +1,9 @@
+/*
+*Cam Larson
+*1/17/2019
+*This is a simple hello world program
+*/
+
 #include<stdlib.h>
 #include<stdio.h>
 
