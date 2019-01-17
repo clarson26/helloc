@@ -1,6 +1,11 @@
-int main(void)  {
+#include<stdlib.h>
+#include<stdio.h>
 
-printf("Cam Larson");
+
+int main(int argc, char **argv)  {
+
+printf("Cam Larson\n");
+printf("Mechanical Engineering\n");
 
 return 0;
 }
